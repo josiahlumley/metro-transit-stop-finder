@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19614949.chunk.css",
+    "main.js": "/static/js/main.e246af2d.chunk.js",
+    "main.js.map": "/static/js/main.e246af2d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.33df0d08.js",
+    "runtime-main.js.map": "/static/js/runtime-main.33df0d08.js.map",
+    "static/js/2.62c474ea.chunk.js": "/static/js/2.62c474ea.chunk.js",
+    "static/js/2.62c474ea.chunk.js.map": "/static/js/2.62c474ea.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.19614949.chunk.css.map": "/static/css/main.19614949.chunk.css.map",
+    "static/js/2.62c474ea.chunk.js.LICENSE.txt": "/static/js/2.62c474ea.chunk.js.LICENSE.txt",
+    "static/media/metro_transit.9a816f81.jpg": "/static/media/metro_transit.9a816f81.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33df0d08.js",
+    "static/js/2.62c474ea.chunk.js",
+    "static/css/main.19614949.chunk.css",
+    "static/js/main.e246af2d.chunk.js"
+  ]
+}
